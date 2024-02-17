@@ -1,7 +1,7 @@
 import wikipedia
 import networkx as nx
 import matplotlib.pyplot as plt
-
+import mplcursors
 
 def fetch_links(article_title):
     try:
@@ -11,7 +11,6 @@ def fetch_links(article_title):
         print(f'Article "{article_title}" does not exist.')
         return []
 
-
 def add_edges(G, article_titles):
     for title in article_titles:
         links = fetch_links(title)
@@ -19,10 +18,26 @@ def add_edges(G, article_titles):
             if link in G.nodes:
                 G.add_edge(title, link)
 
-
 def main():
     G = nx.Graph()
-    article_titles = ['october 7 2023']  # Add more article titles as needed
+    article_titles = [
+        'october 7 Israel',
+        'Gaza before and after October 7',
+        'Israel War Against Hamas',
+        'Hamas Against Jew',
+        'Hamas genocide October 7',
+        'Iron Swords War 2023',
+        'Cries of El-aqsa in October 7',
+        "'Simhat Torah' in Israel, October 7",
+        'Hamas before and after October 7',
+        'Israel defense forces in October 7',
+        'United Nations in October 7',
+        'Nova Festival in Israel, October 7',
+        'Hostage in October 7',
+        'Hostages is gaza', 
+        'Civilian of gaza in October 7',
+        
+    ]  
     for title in article_titles:
         search_results = wikipedia.search(title)
 
@@ -34,16 +49,19 @@ def main():
             except wikipedia.exceptions.PageError:
                 print(f'Article "{article}" does not exist.')
 
+    
+    print
+    
     add_edges(G, article_titles)
 
+    print('Graph created successfully.')
     print("Number of nodes:", G.number_of_nodes())
     print("Number of edges:", G.number_of_edges())
 
-    # Compute the largest connected component
     largest_cc = max(nx.connected_components(G), key=len)
+    print("Number of connected components:", nx.number_connected_components(G))
     G_lcc = G.subgraph(largest_cc)
 
-    # Calculate network metrics for the largest connected component
     if len(G_lcc) > 0:
         diameter = nx.diameter(G_lcc)
         clustering_coefficient = nx.average_clustering(G_lcc)
@@ -52,11 +70,16 @@ def main():
     else:
         print("The graph does not contain any connected components.")
 
-    # Plot the graph
-    plt.figure(figsize=(10, 6))
-    nx.draw(G_lcc, with_labels=True, font_weight='bold')
-    plt.show()
+    plt.figure(figsize=(12, 8))
+    pos = nx.spring_layout(G_lcc)  # Layout for the graph
+    nx.draw(G_lcc, pos, with_labels=True, font_weight='bold', node_size=500, node_color='lightblue', font_size=8, edge_color='gray', width=0.5, alpha=0.7)  # Draw the graph
+    edge_labels = nx.get_edge_attributes(G_lcc, 'weight')  # Extract edge labels
 
+    # Use mplcursors to display edge labels on hover
+    mplcursors.cursor(multiple=True).connect(
+        "add", lambda sel: sel.annotation.set_text(edge_labels.get((sel.artist.get_data()[0], sel.artist.get_data()[1]), '')))
+
+    plt.show()
 
 if __name__ == '__main__':
     main()
