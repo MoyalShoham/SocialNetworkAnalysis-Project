@@ -81,5 +81,13 @@ def main():
 
     plt.show()
 
+    # Visualize degree distribution
+    plt.figure(figsize=(8, 6))
+    plt.hist(degrees, bins=len(degree_counts), edgecolor='black')
+    plt.xlabel("Degree")
+    plt.ylabel("Frequency")
+    plt.title("Degree Distribution of the Graph")
+    plt.show()
+
 if __name__ == '__main__':
     main()
