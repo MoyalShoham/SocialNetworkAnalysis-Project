@@ -1,0 +1,51 @@
+Top 50 nodes with the most out-degrees and author details:
+Node: Islamism, Out-Degree: 606, Creation Date: 2001-11-01T23:48:04Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Palestinians, Out-Degree: 538, Creation Date: 2001-10-08T12:05:29Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: U2, Out-Degree: 497, Creation Date: 2001-08-07T22:25:02Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Assault rifle, Out-Degree: 402, Creation Date: 2001-09-13T06:59:22Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Terrorism, Out-Degree: 361, Creation Date: 2001-10-01T01:49:01Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: 2024 Iranian strikes against Israel, Out-Degree: 319, Creation Date: 2024-04-13T19:51:42Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Telegram (software), Out-Degree: 268, Creation Date: 2013-12-30T14:21:07Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Portal:Law, Out-Degree: 185, Creation Date: 2005-06-25T07:14:23Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Civilian, Out-Degree: 70, Creation Date: 2002-11-10T12:05:37Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Grenade, Out-Degree: 45, Creation Date: 2002-08-04T18:52:15Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Forward (association football), Out-Degree: 27, Creation Date: 2004-01-12T19:19:15Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Ynet, Out-Degree: 21, Creation Date: 2005-11-03T05:15:52Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Blockout 2024, Out-Degree: 19, Creation Date: 2024-05-11T20:46:56Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Environmental impact of the Israel–Hamas war, Out-Degree: 13, Creation Date: 2024-04-07T15:54:34Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Stuxnet, Out-Degree: 0, Creation Date: 2010-09-16T17:19:08Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Ayman Safadi, Out-Degree: 0, Creation Date: 2017-07-27T09:22:11Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Hammer (firearms), Out-Degree: 0, Creation Date: 2006-11-25T05:54:26Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Palestine (region), Out-Degree: 0, Creation Date: 2004-10-29T13:45:37Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Desmond Tutu, Out-Degree: 0, Creation Date: 2001-09-02T06:06:18Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Syrians, Out-Degree: 0, Creation Date: 2007-01-11T01:23:07Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Wafa, Out-Degree: 0, Creation Date: 2005-08-24T00:38:14Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: 2023 attack on the Chem Pluto, Out-Degree: 0, Creation Date: 2023-12-24T01:22:49Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Bethlehem University, Out-Degree: 0, Creation Date: 2005-12-02T21:02:20Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Slamfire, Out-Degree: 0, Creation Date: 2006-04-23T05:50:08Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Romanization of Persian, Out-Degree: 0, Creation Date: 2006-11-21T15:39:44Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Vladimir Lenin, Out-Degree: 0, Creation Date: 2001-07-27T06:04:50Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Palestinian Brazilian, Out-Degree: 0, Creation Date: 2008-05-17T23:10:37Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Handloading, Out-Degree: 0, Creation Date: 2002-02-25T15:43:11Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Contact list, Out-Degree: 0, Creation Date: 2004-12-28T23:34:57Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: TechCrunch, Out-Degree: 0, Creation Date: 2006-05-11T15:57:55Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Jimi Hendrix, Out-Degree: 0, Creation Date: 2001-10-23T04:08:06Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: List of diplomatic missions in Palestine, Out-Degree: 0, Creation Date: 2007-10-20T18:05:14Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: City of Blinding Lights, Out-Degree: 0, Creation Date: 2005-10-22T12:58:30Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Palestinians in Pakistan, Out-Degree: 0, Creation Date: 2010-01-14T18:09:54Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: One (U2 song), Out-Degree: 0, Creation Date: 2005-07-14T16:26:55Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Al-Awda (guerrilla organization), Out-Degree: 0, Creation Date: 2004-09-07T19:26:08Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Yoav Gallant, Out-Degree: 0, Creation Date: 2006-05-20T11:24:57Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Division (business), Out-Degree: 0, Creation Date: 2006-09-29T16:09:44Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Occupation of the Gaza Strip by the United Arab Republic, Out-Degree: 0, Creation Date: 2004-09-24T11:34:55Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Constitution of Hungary, Out-Degree: 0, Creation Date: 2006-06-17T18:58:13Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: South Korea, Out-Degree: 0, Creation Date: 2001-07-08T04:08:23Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Syncopation, Out-Degree: 0, Creation Date: 2002-02-25T15:43:11Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Judaea (Roman province), Out-Degree: 0, Creation Date: 2005-05-20T12:14:17Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Islamic state, Out-Degree: 0, Creation Date: 2005-09-09T11:33:58Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: North Yemen civil war, Out-Degree: 0, Creation Date: 2005-12-02T05:43:34Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Britney Spears, Out-Degree: 0, Creation Date: 2001-10-04T05:56:22Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Rice, Out-Degree: 0, Creation Date: 2002-02-25T15:43:11Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Agriculture in the State of Palestine, Out-Degree: 0, Creation Date: 2014-07-03T22:53:57Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Mansur al-Atrash, Out-Degree: 0, Creation Date: 2012-08-25T09:33:01Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown
+Node: Ronen Bergman, Out-Degree: 0, Creation Date: 2007-11-01T12:42:26Z, Author: Unknown, Location: Unknown, Religion: Unknown, Nationality: Unknown

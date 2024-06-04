@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+networkx
+seaborn
+scipy
+json
+
